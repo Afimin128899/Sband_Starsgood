@@ -5,7 +5,8 @@ DB_CONFIG = {
     "dbname": "SbandStarsdx_necessary",
     "user": "SbandStarsdx_necessary",
     "password": "ShardenYT",
-    "host": "5ikxsp.h.filess.io"
+    "host": "5ikxsp.h.filess.io",
+    "port": 5434   # ✅ ОБЯЗАТЕЛЬНО
 }
 
 FLYER_API_KEY = "FL-eliuMo-kzwWnO-uvimwU-UOfqjW"
