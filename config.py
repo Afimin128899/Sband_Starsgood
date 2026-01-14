@@ -4,7 +4,7 @@ ADMIN_ID = 548858090
 DB_CONFIG = {
     "dbname": "SbandStarsdx_necessary",
     "user": "SbandStarsdx_necessary",
-    "password": "3e8a6346378acc5eb7ef1e7268f2c54f6a21c1a2",
+    "password": "ShardenYT",
     "host": "5ikxsp.h.filess.io"
 }
 
